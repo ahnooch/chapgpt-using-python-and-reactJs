@@ -1,5 +1,5 @@
 import openai
-openai.api_key ="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"
+openai.api_key ="your API key"
 from flask import Flask,request
 from flask_cors import cross_origin
 
